@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet-01", "Labsheet-01\Labsheet-01.csproj", "{C5704BB3-8128-476D-9A1C-899937484AD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet-01 Q1", "Labsheet-01\Labsheet-01 Q1.csproj", "{C5704BB3-8128-476D-9A1C-899937484AD0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet 01 Q2", "Labsheet 01 Q2\Labsheet 01 Q2.csproj", "{57372C3A-A699-4FFF-8C25-E2D786DD6859}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet 01 Q3", "Labsheet 01 Q3\Labsheet 01 Q3.csproj", "{965C6A48-716B-496F-A93A-2365A201AB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet 01 Q4", "Labsheet 01 Q4\Labsheet 01 Q4.csproj", "{6F6CB80E-213C-44AE-AED4-1A1A5ECA8C2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet 01 Q5", "Labsheet 01 Q4\Labsheet 01 Q5.csproj", "{6F6CB80E-213C-44AE-AED4-1A1A5ECA8C2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
